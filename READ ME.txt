@@ -1,0 +1,3 @@
+***Parkinson prediction By Ahmed/Sarah***
+
+- Certaines bibliothèques telles que imblearn, lux, xgboost... sont à installer sur Conda au préalable
